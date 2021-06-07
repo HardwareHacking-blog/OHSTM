@@ -1,2 +1,3 @@
-# OHSTM
-Open Hardware Security Testing Methodology
+# Open Hardware Security Testing Methodology (OHSTM)
+
+Under construction
