@@ -1,4 +1,14 @@
 title: "Open Hardware Security Testing Methodology (OHSTM)"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+color_scheme: "light"
 search_enabled: false
+
+footer_content: "Copyright &copy; 2021 HardwareHacking.blog. Distributed by an <a href=\"https://github.com/HardwareHacking-blog/OHSTM/tree/master/LICENSE\">CC-BY-SA 4.0 International license.</a>"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/HardwareHacking-blog/OHSTM" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
