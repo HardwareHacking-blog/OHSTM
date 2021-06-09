@@ -1,7 +1,7 @@
 ---
-Title: External Inspection
-Parent: Hardware-level Testing
-nav_order: 1
+title: External Inspection
+parent: External Inspection
+grand_parent: Hardware-level Testing
 ---
 
 # External Inspection
