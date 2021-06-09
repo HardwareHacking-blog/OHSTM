@@ -1,5 +1,9 @@
 ---
+layout: default
 title: Hardware-level Testing
-has_children: true
 nav_order: 1
+has_children: true
+has_toc: false
 ---
+
+# Hardware-level Testing
